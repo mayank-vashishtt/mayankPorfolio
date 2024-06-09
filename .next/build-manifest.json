@@ -1,34 +1,273 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
-  "ampDevFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/amp.js"
-  ],
+  "devFiles": [],
+  "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/KrwETNifMvDVZMEjvQjiv/_buildManifest.js",
+    "static/KrwETNifMvDVZMEjvQjiv/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/index-ff91b01030629d99.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/css/4b39887dba7ccdab.css",
+      "static/chunks/pages/_app-c9afec596a7f026b.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/_error-9222faf9ee4a01b4.js"
+    ],
+    "/about": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/about-fa7cde557a2514c6.js"
+    ],
+    "/apply": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/apply-ec4118afe0412ff8.js"
+    ],
+    "/ideas": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/2570-41c8ae07f5f08785.js",
+      "static/chunks/pages/ideas-ee690d615efa9cee.js"
+    ],
+    "/ideas/2022": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/ideas/2022-7153b28ee7810b46.js"
+    ],
+    "/ideas/2022/agora-blockchain": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/agora-blockchain-97bc21c706355cdf.js"
+    ],
+    "/ideas/2022/agora-vote-android": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/agora-vote-android-63a66f7d650d8464.js"
+    ],
+    "/ideas/2022/agora-vote-ios": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/agora-vote-ios-7a6eb40ba08ce71c.js"
+    ],
+    "/ideas/2022/aossie-scholar": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/aossie-scholar-d117a38edd9c2f00.js"
+    ],
+    "/ideas/2022/monumento": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/monumento-449d1a5b7b5eac13.js"
+    ],
+    "/ideas/2022/p2p-messaging-flutter": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/p2p-messaging-flutter-e3460f993da50220.js"
+    ],
+    "/ideas/2022/social-street-smart-large": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/social-street-smart-large-f39f2298275726ab.js"
+    ],
+    "/ideas/2022/social-street-smart-medium": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2022/social-street-smart-medium-f8761f83ef39d5fe.js"
+    ],
+    "/ideas/2023": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/ideas/2023-bebe7b719221eae6.js"
+    ],
+    "/ideas/2023/agora-blockchain": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/agora-blockchain-9ba429af950782ff.js"
+    ],
+    "/ideas/2023/agora-vote-android": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/agora-vote-android-34c58dfc47b9eb10.js"
+    ],
+    "/ideas/2023/agora-vote-ios": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/agora-vote-ios-aeb3929ecc911102.js"
+    ],
+    "/ideas/2023/eduAid": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/eduAid-e9d0bd85ee5d7185.js"
+    ],
+    "/ideas/2023/monumento": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/monumento-8de999fc1e4d1a6f.js"
+    ],
+    "/ideas/2023/monumento-iPad": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/monumento-iPad-49f36c1630492cac.js"
+    ],
+    "/ideas/2023/openChat": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/openChat-131ac5114dcfa42f.js"
+    ],
+    "/ideas/2023/p2p-messaging-flutter": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/p2p-messaging-flutter-0c7a6004b2e85dda.js"
+    ],
+    "/ideas/2023/resonate": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/resonate-dac0147e4becbef9.js"
+    ],
+    "/ideas/2023/social-street-smart-large": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/social-street-smart-large-41cac2c02a2e36ee.js"
+    ],
+    "/ideas/2023/social-street-smart-medium": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2023/social-street-smart-medium-e6489c25b27edae3.js"
+    ],
+    "/ideas/2024/agora-blockchain": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/agora-blockchain-e0841c8b355f1579.js"
+    ],
+    "/ideas/2024/agora-vote-android": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/agora-vote-android-ddcd78fec4ff8310.js"
+    ],
+    "/ideas/2024/agora-vote-ios": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/agora-vote-ios-8518ff1aab039817.js"
+    ],
+    "/ideas/2024/eduAid": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/eduAid-12ab2b5bc4022ba7.js"
+    ],
+    "/ideas/2024/monumento": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/monumento-6b44e6bcc297cb94.js"
+    ],
+    "/ideas/2024/monumento-iPad": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/monumento-iPad-258bc2d6c55f039d.js"
+    ],
+    "/ideas/2024/resonate": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/resonate-3cf560d426b87ce7.js"
+    ],
+    "/ideas/2024/resonate-ios": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/resonate-ios-192a1f8b3fe03e5f.js"
+    ],
+    "/ideas/2024/resonate-ui": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/resonate-ui-4ac4bb1abad8617c.js"
+    ],
+    "/ideas/2024/social-street-smart": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/c16184b3-128d053312d8db73.js",
+      "static/chunks/pages/ideas/2024/social-street-smart-1a2cc81cbeaca488.js"
+    ],
+    "/projects": [
+      "static/chunks/webpack-588445323fd827a4.js",
+      "static/chunks/framework-695e56344d65da02.js",
+      "static/chunks/main-bc42a7ce24e51a39.js",
+      "static/chunks/pages/projects-aef982855fc5c026.js"
     ]
   },
   "ampFirstPages": []
