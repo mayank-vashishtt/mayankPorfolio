@@ -43,16 +43,16 @@ export default function Home() {
           <div className="flex-1 sm:ml-10 lg:ml-0 lg:mt-0 mt-10">
             <div className="max-w-xl">
               <h1 className="text-6xl sm:text-6xl md:text-5xl font-mono lg:text-6xl font-extrabold tracking-tighter text-[#00843D] dark:text-yellow-400">
-                I'm Learner <br /> I'm Builder
+                I&apos;m Learner <br /> I&apos;m Builder
               </h1>
               <p className="mt-4 text-xl text-zinc-600 dark:text-zinc-400 leading-7 font-mono ">
-              I'm a passionate builder and problem solver, dedicated to crafting innovative solutions that leave a lasting impact. With a love for development and a drive for excellence, I'm here to showcase my journey of creating remarkable digital experiences. Let's build something extraordinary together!
+              I&apos;m a passionate builder and problem solver&lsquo; dedicated to crafting innovative solutions that leave a lasting impact. With a love for development and a drive for excellence&lsquo; I&apos;m here to showcase my journey of creating remarkable digital experiences. Let&apos;s build something extraordinary together!
               </p>
               <div className="mt-6 flex gap-6 ml-4">
                 <Link aria-label="Contact by Mail" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href='https://www.linkedin.com/in/mayank-vashisht-910830171/' target='_blank'>
                   <FontAwesomeIcon icon={faLinkedin} size='2xl' />
                 </Link>
-                <Link aria-label="Follow on GitLab" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href=''>
+                <Link aria-label="Follow on GitLab" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href='https://gitlab.com/aossie'>
                   <FontAwesomeIcon icon={faInstagram} size='2xl' />
                 </Link>
                 <Link aria-label="Follow on GitHub" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href='https://github.com/mayank-vashishtt' target='_blank'>
@@ -61,7 +61,7 @@ export default function Home() {
                 <Link aria-label="Join on Discord" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href=''>
                   <FontAwesomeIcon icon={faDiscord} size='2xl' />
                 </Link>
-                <Link aria-label="Follow on Twitter" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href=''>
+                <Link aria-label="Follow on Twitter" className=' text-zinc-500 hover:text-[#00843D] dark:text-zinc-400 dark:hover:text-yellow-400 transition' href='https://twitter.com/aossie_org'>
                   <FontAwesomeIcon icon={faTwitter} size='2xl' />
                 </Link>
               </div>
@@ -73,7 +73,7 @@ export default function Home() {
             <span className="relative z-10 block px-5 py-3 overflow-hidden transition-colors duration-300 ease-in-out border-2 border-gray-900 rounded-lg dark:group-hover:text-black group-hover:text-white">
               <span className="absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-white"></span>
               <span className="absolute left-0 w-72 h-48 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-[#00843D] dark:bg-yellow-400 group-hover:-rotate-180 ease-in-out"></span>
-              <span className="relative font-mono text-xl font-black tracking-tighter">Shaping Myself, Moment by Moment</span>
+              <span className="relative font-mono text-xl font-black tracking-tighter">Shaping myself&lsquo; moment by moment.</span>
             </span>
             <span className="absolute bottom-0 right-0 w-full h-14 mb-3 mr-2 transition-all duration-200 ease-linear bg-[#00843D] dark:bg-yellow-400 rounded-lg group-hover:m-0" data-rounded="rounded-lg"></span>
           </Link>
@@ -92,7 +92,7 @@ export default function Home() {
             </div>
 
 
-            <p className=' text-lg text-zinc-600 dark:text-zinc-400 font-mono '></p>
+            <p className=' text-lg text-zinc-600 dark:text-zinc-400 font-mono '>Our Projects&lsquo; where we showcase our tech wizardry and code-slinging skills!! <br></br> Be a part of our community and contribute to meaningful projects that are making a difference. Explore our selection of projects and find the perfect opportunity to showcase your skills and make an impact.</p>
           </div>
           <div className='flex flex-col sm:flex-row gap-6 sm:gap-0 mt-10 sm:justify-evenly items-center' >
             <Container.Inner>

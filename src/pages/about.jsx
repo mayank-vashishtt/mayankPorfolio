@@ -38,7 +38,7 @@ export default function About() {
               In the field of computer science, I have a solid foundation in data structures and algorithms (DSA), which I am currently refining to stay at the cutting edge of technology. My commitment to excellence drives me to continuously improve and innovate, aiming to become one of the most influential figures in the tech industry.
               </p>
               <p>
-              I thrive on challenges and am excited about the opportunity to contribute my skills and enthusiasm to a dynamic team. Whether it's through developing robust software solutions or optimizing complex algorithms, I am eager to make a significant impact and grow alongside like-minded professionals.
+              I thrive on challenges and am excited about the opportunity to contribute my skills and enthusiasm to a dynamic team. Whether it&apos;s through developing robust software solutions or optimizing complex algorithms, I am eager to make a significant impact and grow alongside like-minded professionals.
               </p>
             </div>
           </div>
